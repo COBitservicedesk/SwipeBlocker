@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://google.com' protocol='2.0'>
   <app appid='noielebgnbjeofiildkbcllekoimblkl'>
-    <updatecheck codebase='https://github.com' version='1.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/COBitservicedesk/SwipeBlocker/main/disable-kiosk-swipe.crx' version='1.0' />
   </app>
 </gupdate>
